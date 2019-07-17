@@ -12,6 +12,6 @@ db.sqlite3
 /media
 venv
 /static
-
+.vscode
 
 # End of https://www.gitignore.io/api/django
